@@ -1,4 +1,4 @@
-This is a starter project can be used by teams as the foundation of their 
+This is a starter project can be used as the foundation of their 
 TaskExecutor implementations. 
 
 The 'src' directory has been populated with the interfaces described in the project 
